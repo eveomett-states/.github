@@ -11,6 +11,7 @@ Arbie Hsu<br>
 Alusi<br>
 Ellen Veomett
 <br>
+<br>
 Special thanks to Jeanne Clelland, for her feedback and advice regarding maup and its `smart_repair` function in particular.
 
 # License
