@@ -7,8 +7,8 @@ This organization contains a repository for most states (we hope to eventually h
 This project has several contributors, most Computer Science students at the University of San Francisco (directed by Dr. Ellen Veomett).  Contributors are:
 
 Ananya Agarwal<br>
-Arbie Hsu<br>
 Alusi<br>
+Arbie Hsu<br>
 Ellen Veomett
 <br>
 <br>
