@@ -4,6 +4,8 @@ This organization contains a repository for most states (we hope to eventually h
 
 *Please note that this data is **not** guaranteed to be "correct" in any legal sense, and is not intended to be used for litigation purposes.*  This data, and the notebooks used to create it, are intended for researchers studying redistricting and wanting maps that were created after the 2020 census.  Please see a state's notebook and README for details, as well as the [maup](https://github.com/mggg/maup) documentation.  If a state's shapefile was small enough, we zipped and added that to the repository as well.  You can run the jupyter notebook for a state to create the shapefile, if it is not already in the repository.
 
+We used best practices as recommended by [maup](https://github.com/mggg/maup) contributors in order to clean the data.  If possible, we nested precincts within counties and changed small-length rook adjacencies to queen adjacencies (see the [maup](https://github.com/mggg/maup) library for details).  Details can be found in each state's README.
+
 This project has several contributors, most Computer Science students at the University of San Francisco (directed by Dr. Ellen Veomett).  Contributors are:
 
 Ananya Agarwal<br>
