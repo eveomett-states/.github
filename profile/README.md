@@ -11,6 +11,7 @@ This project has several contributors, most Computer Science students at the Uni
 Ananya Agarwal<br>
 Alusi<br>
 Arbie Hsu<br>
+Arif Syraj<br>
 Ellen Veomett
 <br>
 <br>
